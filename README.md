@@ -26,7 +26,7 @@ A distributed-memory implementation using MPI across multiple processes and virt
 
 A GPU-based implementation using CUDA for parallel matrix multiplication.
 
-[View MPI Experiment](./CUDA.md)
+[View CUDA Experiment](./CUDA.md)
 
 ## Problem Definition
 
