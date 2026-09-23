@@ -55,4 +55,6 @@ Parallel-and-GPU-Computing/
 │
 ├── README.md
 ├── Sequential.md
-└── OpenMP.md
+├── OpenMP.md
+└── MPI.md
+
