@@ -1,4 +1,4 @@
-#Part B - OpenMP Matrix Multiplication
+# Part B - OpenMP Matrix Multiplication
 
 ## 1. OpenMPI Setup
 
