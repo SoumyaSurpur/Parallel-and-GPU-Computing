@@ -18,10 +18,9 @@ threads.
 
 ### 3. MPI Matrix Multiplication
 
-A distributed-memory implementation using MPI across multiple processes
-and virtual machines.
+A distributed-memory implementation using MPI across multiple processes and virtual machines.
 
-*Documentation will be added.*
+[View MPI Experiment](./MPI.md)
 
 ### 4. CUDA Matrix Multiplication
 
