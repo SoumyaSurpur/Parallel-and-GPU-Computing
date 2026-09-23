@@ -1,4 +1,4 @@
-# Sequential Matrix Multiplication
+# PART A - Sequential Matrix Multiplication
 
 ## 1. Introduction
 
