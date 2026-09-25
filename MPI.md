@@ -34,3 +34,4 @@ The `hostname` command confirmed that the connection was established with the co
 
 <img width="851" height="404" alt="worker1_mpi" src="https://github.com/user-attachments/assets/136b8087-8bfb-46ec-8eb9-eabf7778544e" />
 <img width="736" height="401" alt="worker2_mpi" src="https://github.com/user-attachments/assets/8cf25177-f7b4-44c8-a82c-b324709ab4df" />
+<img width="694" height="668" alt="WhatsApp Image 2026-09-25 at 9 20 28 AM" src="https://github.com/user-attachments/assets/23646b97-841d-41d9-9db1-493a6bfa8767" />
