@@ -2,7 +2,7 @@
 
 ## 1. OpenMP Setup
 
-OpenMPI and OpenSSH were configured on the required Ubuntu systems for distributed matrix multiplication.
+OpenMP and OpenSSH were configured on the required Ubuntu systems for distributed matrix multiplication.
 
 ## 2. Working and Output
 
