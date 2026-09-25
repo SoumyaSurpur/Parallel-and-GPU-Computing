@@ -6,22 +6,7 @@ The Sequential implementation is used as the baseline for comparing the performa
 
 The experiment performs matrix multiplication of two 4000 × 4000 matrices using sequential CPU execution.
 
-## 2. Environment Setup
-
-### WSL2 Verification
-
-WSL2 and Ubuntu were verified before performing the experiment.
-
-<img width="953" height="984" alt="sequential_wsl" src="https://github.com/user-attachments/assets/e1799d53-d8cd-4595-8f63-9df3141b3ea1" />
-
-
-### GCC Verification
-
-GCC was installed and its version was verified.
-
-<img width="880" height="681" alt="sequential_gcc" src="https://github.com/user-attachments/assets/102adab8-6887-413e-8e0c-c5088373a9ea" />
-
-## 3. Sequential Matrix Multiplication Program
+## 2. Sequential Matrix Multiplication Program
 
 The Sequential matrix multiplication program was implemented in C using three nested loops for matrix multiplication.
 
