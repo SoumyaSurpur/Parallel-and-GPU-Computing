@@ -28,7 +28,7 @@ The SSH service was verified to be active and running on Worker1, Worker2, and W
 
 ## 4. SSH Communication Test
 
-The Master successfully connected to Worker1 and Worker2 using SSH.
+The Master successfully connected to Worker1, Worker2 and Worker3 using SSH.
 
 The `hostname` command confirmed that the connection was established with the correct worker node.
 
