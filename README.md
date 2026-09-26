@@ -4,17 +4,33 @@
 
 ### 1. Sequential Matrix Multiplication
 
-A baseline matrix multiplication implementation using sequential CPU
-execution.
+A baseline matrix multiplication implementation using sequential CPU execution.
 
-[View Sequential Experiment](./Sequential.md)
+In this implementation, the complete matrix multiplication is performed by a single CPU process using three nested loops. Two 4000 × 4000 matrices are initialized with values of 1.0, and the result matrix is computed sequentially.
+
+The implementation is used as the baseline for comparing the performance of parallel approaches.
+
+**Matrix Size:** 4000 × 4000  
+**Execution Model:** Single CPU Process  
+**Verification:** C[0][0] = 4000.00
+
+[View Sequential Experiment](https://github.com/SoumyaSurpur/Parallel-and-GPU-Computing/blob/main/Sequential.md)
+
 
 ### 2. OpenMP Matrix Multiplication
 
-A shared-memory parallel implementation using OpenMP and multiple CPU
-threads.
+A shared-memory parallel implementation using OpenMP and multiple CPU threads.
 
-[View OpenMP Experiment](./OpenMP.md)
+The matrix multiplication is parallelized using OpenMP, allowing multiple CPU threads to perform different parts of the computation concurrently. In this experiment, 8 OpenMP threads are used to process the 4000 × 4000 matrix.
+
+The OpenMP implementation is compared with the sequential baseline to observe the effect of CPU-based parallel execution.
+
+**Matrix Size:** 4000 × 4000  
+**Execution Model:** Shared-Memory Parallelism  
+**OpenMP Threads:** 8  
+**Verification:** C[0][0] = 4000.00
+
+[View OpenMP Experiment](https://github.com/SoumyaSurpur/Parallel-and-GPU-Computing/blob/main/OpenMP.md)
 
 ### 3. MPI Matrix Multiplication
 
